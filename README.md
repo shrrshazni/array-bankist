@@ -1,8 +1,5 @@
-# array-bankist
-A sleek, functional banking application built with Vanilla JavaScript. This project focuses on DOM manipulation, user authentication simulation, and complex data management using modern JavaScript array methods. It features real-time balance updates, money transfers, loan requests, and a dynamic transaction history.
-
 # Bankist App 🏦
-
+A sleek, functional banking application built with Vanilla JavaScript. This project focuses on DOM manipulation, user authentication simulation, and complex data management using modern JavaScript array methods. It features real-time balance updates, money transfers, loan requests, and a dynamic transaction history.
 Bankist is a minimalist banking application that allows users to manage their finances through a clean, interactive interface. This project was developed to practice advanced JavaScript concepts and DOM manipulation.
 
 ## 🚀 Live Demo
